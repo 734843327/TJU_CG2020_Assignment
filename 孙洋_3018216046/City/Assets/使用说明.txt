@@ -1,0 +1,32 @@
+VAR1     漫反射变化1
+
+VAR2     漫反射变化2
+
+DISP     置换贴图
+
+GLOSS    光泽
+
+NRM      法线
+
+REFL     反射
+
+
+
+
+Diffuse                扩散
+
+Ambient Occlusion      环境光遮蔽
+
+Displacement 16bit     置换位移16位
+
+Displacement           置换
+
+Gloss                  光泽
+
+IDMap                  id贴图
+
+Normals                法线
+
+Reflection             反射
+
+
