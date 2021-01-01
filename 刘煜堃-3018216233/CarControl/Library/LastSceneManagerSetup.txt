@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/city&car/World/Pixelactive City/Materials/devices/city&car.unity
+  isLoaded: 1
+  isActive: 1

@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: 2c1544850f7de4cd68111994dcb5a39d
+labels:
+- car
+- vehicle
+- wheel
+- tire
+- physics
+- bus
+- truck
+- suspension
+- skidmark
+- pickup
+- carpaint
+- driving
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Ad
+    100002: Model.2
+    100004: Model
+    100006: Model.3
+    100008: LightPole_Low
+    100010: LightPoles
+    100012: LightPole_LODS
+    100014: Part_4
+    100016: Part_3
+    100018: Road
+    100020: Part_2
+    100022: Ground1
+    100024: Part_1
+    100026: Ground3
+    100028: Ground4
+    100030: Ground2
+    100032: Low_Trees
+    100034: Low_Palm
+    100036: Ground
+    100038: Trees
+    100040: Building_9
+    100042: Unity_Palm
+    100044: Building_2
+    100046: Building_1
+    100048: Building_3
+    100050: Building_7
+    100052: Building_6
+    100054: Building_8
+    100056: Building_4
+    100058: Buildings
+    100060: Building_5
+    100062: Ad_support
+    100064: Test_track
+    100066: //RootNode
+    400000: Ad
+    400002: Model.2
+    400004: Model
+    400006: Model.3
+    400008: LightPole_Low
+    400010: LightPoles
+    400012: LightPole_LODS
+    400014: Part_4
+    400016: Part_3
+    400018: Road
+    400020: Part_2
+    400022: Ground1
+    400024: Part_1
+    400026: Ground3
+    400028: Ground4
+    400030: Ground2
+    400032: Low_Trees
+    400034: Low_Palm
+    400036: Ground
+    400038: Trees
+    400040: Building_9
+    400042: Unity_Palm
+    400044: Building_2
+    400046: Building_1
+    400048: Building_3
+    400050: Building_7
+    400052: Building_6
+    400054: Building_8
+    400056: Building_4
+    400058: Buildings
+    400060: Building_5
+    400062: Ad_support
+    400064: Test_track
+    400066: //RootNode
+    2300000: Ad
+    2300002: Model.2
+    2300004: Model
+    2300006: Model.3
+    2300008: LightPole_Low
+    2300010: Part_4
+    2300012: Part_3
+    2300014: Part_2
+    2300016: Ground1
+    2300018: Part_1
+    2300020: Ground3
+    2300022: Ground4
+    2300024: Ground2
+    2300026: Low_Trees
+    2300028: Low_Palm
+    2300030: Building_9
+    2300032: Unity_Palm
+    2300034: Building_2
+    2300036: Building_1
+    2300038: Building_3
+    2300040: Building_7
+    2300042: Building_6
+    2300044: Building_8
+    2300046: Building_4
+    2300048: Building_5
+    2300050: Ad_support
+    2300052: Test_track
+    3300000: Ad
+    3300002: Model.2
+    3300004: Model
+    3300006: Model.3
+    3300008: LightPole_Low
+    3300010: Part_4
+    3300012: Part_3
+    3300014: Part_2
+    3300016: Ground1
+    3300018: Part_1
+    3300020: Ground3
+    3300022: Ground4
+    3300024: Ground2
+    3300026: Low_Trees
+    3300028: Low_Palm
+    3300030: Building_9
+    3300032: Unity_Palm
+    3300034: Building_2
+    3300036: Building_1
+    3300038: Building_3
+    3300040: Building_7
+    3300042: Building_6
+    3300044: Building_8
+    3300046: Building_4
+    3300048: Building_5
+    3300050: Ad_support
+    3300052: Test_track
+    4300000: Test_track
+    4300002: Ad_support
+    4300004: Ad
+    4300006: Building_4
+    4300008: Building_5
+    4300010: Building_6
+    4300012: Building_7
+    4300014: Building_8
+    4300016: Building_1
+    4300018: Building_2
+    4300020: Building_3
+    4300022: Building_9
+    4300024: Unity_Palm
+    4300026: Low_Palm
+    4300028: Low_Trees
+    4300030: Ground4
+    4300032: Ground3
+    4300034: Ground2
+    4300036: Ground1
+    4300038: Part_1
+    4300040: Part_2
+    4300042: Part_3
+    4300044: Part_4
+    4300046: LightPole_Low
+    4300048: Model
+    4300050: Model.2
+    4300052: Model.3
+    6400000: Building_4
+    6400002: Building_5
+    6400004: Building_6
+    6400006: Building_7
+    6400008: Building_8
+    6400010: Building_9
+    6400012: Ground1
+    6400014: Ground2
+    6400016: Ground3
+    6400018: Ground4
+    6400020: Model
+    6400022: Model.2
+    6400024: Model.3
+    6400026: LightPole_Low
+    6400028: Part_1
+    6400030: Part_2
+    6400032: Part_3
+    6400034: Part_4
+    6400036: Ad_support
+    6400038: Ad
+    6400040: Building_1
+    6400042: Building_2
+    6400044: Building_3
+    6400046: Test_track
+    6400048: Low_Palm
+    6400050: Low_Trees
+    6400052: Unity_Palm
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 15
+    splitTangentsAcrossUV: 0
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
